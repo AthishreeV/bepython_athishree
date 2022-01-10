@@ -40,7 +40,6 @@ def cosineSimilarity():
 		if word not in universalSetOfUniqueWords:
 			universalSetOfUniqueWords.append(word)
 
-	####################################################################################################
 
 	queryTF = []
 	databaseTF = []
